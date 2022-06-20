@@ -1,0 +1,49 @@
+tbody{
+    padding: 200px;
+}
+tr, td{
+    border: 1px solid black; 
+}
+td{
+    width: 30px;
+    height:30px;
+    border: 1px solid darkgray; 
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+    background-color: antiquewhite;
+}
+.blanc{
+    background-color: white;
+}
+.maron{
+    background-color: rgb(42, 3, 42);
+}
+.broun{
+    background-color: brown;
+}
+.rouge{
+    background-color: rgb(140, 44, 44);
+}
+.baige{
+    background-color: rgb(211, 185, 152);
+}
+.ver{
+    background-color: rgb(23, 161, 147);
+}
+.green{
+    background-color: green;
+}
+.geune{
+    background-color: rgb(158, 167, 26);
+}
+.blue{
+    background-color: rgb(29, 54, 98);
+}
+.jeune{
+    background-color: yellow;
+}
+.fonce{
+    background-color: rgba(32, 157, 157, 0.778);
+}
